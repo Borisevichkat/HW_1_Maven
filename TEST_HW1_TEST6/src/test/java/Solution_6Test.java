@@ -1,3 +1,4 @@
+package epam.training.homework1.task6;
 import static org.junit.jupiter.api.Assertions.*;
 
 class Solution_6Test {
