@@ -1,5 +1,4 @@
 package epam.training.homework1.task2;
-
 import java.io.IOException;
 
 public class Main {
