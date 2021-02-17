@@ -1,5 +1,5 @@
+package epam.training.homework1.task7;
 import java.text.DecimalFormat;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class Solution_7Test {
