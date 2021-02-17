@@ -1,3 +1,4 @@
+package epam.training.homework1.task10;
 import static org.junit.Assert.*;
 
 public class Solution_4Test {
